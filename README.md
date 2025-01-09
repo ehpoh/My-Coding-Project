@@ -1,4 +1,4 @@
-# My-Coding-Project
+# Applications Execution Step-By-Step Instructions
 Installation for the software application
 This installation step is essential to run the Alarm Clock, Timer, and Pomodoro Timer applications using the Anaconda Prompt.
 
