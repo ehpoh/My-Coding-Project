@@ -1,0 +1,79 @@
+item_code,item_desc,unit_price,category,cost
+1000,Colgate toothpaste 500g,3.85,toilet,3.50
+1001,Pilot G2 07 Black Fine Retractable Gel Ink Pen,7,stationary,6.20
+1002,Peanut butter 500g,8.8,food,8
+1003,Dove bar soap 100g,2.5,bath,1.80
+1004,Shampoo 200ml,5.75,haircare,5
+1005,Maggi 2 minute noodles 70g,1.5,food,1.2
+1006,Sunlight dishwashing liquid 1L,6.2,cleaning,5.8
+1007,Milo 400g,12.5,beverages,10.80
+1008,Nestle cornflakes 500g,9.75,food,8.95
+1009,Dettol handwash 200ml,4.5,cleaning,4.00
+1010,Sunlight dishwashing liquid 500ml,3.5,cleaning,2.25
+1011,Dettol handwash 500ml,6.5,cleaning,4.25
+1012,Lysol disinfectant spray 450ml,7.99,cleaning,5
+1013,Mr. Muscle toilet cleaner 500ml,3.99,cleaning,2.75
+1014,Harpic toilet cleaner 500ml,3.75,cleaning,2.5
+1015,Scotch tape 12mm x 66m,1.5,stationary,1
+1016,Paper clips (box of 100),0.5,stationary,0.35
+1017,Stapler,5,stationary,3.5
+1018,Pens (pack of 10),2,stationary,1.5
+1019,Notebooks (pack of 5),3,stationary,2.25
+1020,Printer paper (1 ream),15,stationary,10
+1021,Detergent powder 1kg,7.5,laundry,5
+1022,Fabric softener 2L,6,laundry,4
+1023,Bleach 1L,2.5,laundry,1.75
+1024,Washing machine detergent 1L,5,laundry,3.5
+1025,Shampoo 500ml,8,haircare,5.5
+1026,Conditioner 500ml,8,haircare,5.5
+1027,Hair dye,15,haircare,10
+1028,Hairspray,5,haircare,3.5
+1029,Facial wash 100g,5,skincare,3.5
+1030,Moisturizer 50g,10,skincare,7
+1031,Sunscreen 50g,8,skincare,5.5
+1032,Body lotion 200ml,5,skincare,3.5
+1033,Toothpaste 100g,2,oral care,1.5
+1034,Toothbrush,1.5,oral care,1
+1035,Mouthwash 250ml,3,oral care,2
+1036,Floss,1,oral care,0.75
+1037,Chicken breast 1kg,15,meat,12
+1038,Beef steak 500g,30,meat,25
+1039,Pork chops 500g,12,meat,9
+1040,Fish fillet 500g,10,seafood,8
+1041,Shrimp 500g,15,seafood,12
+1042,Crab 500g,20,seafood,15
+1043,Rice 5kg,20,pantry,15
+1044,Flour 1kg,2.5,pantry,1.75
+1045,Sugar 1kg,2,pantry,1.5
+1046,Salt 500g,0.5,pantry,0.35
+1047,Oil 1L,5,pantry,3.5
+1048,Eggs (dozen),5,pantry,3.5
+1049,Milk 1L,3,dairy,2
+1050,Yogurt 100g,1.5,dairy,1
+1051,Cheese 200g,8,dairy,5.5
+1052,Butter 250g,5,dairy,3.5
+1053,Ice cream 1L,5,frozen food,3.5
+1054,Pizza 12 inches,10,frozen food,7
+1055,Chicken nuggets 500g,8,frozen food,5.5
+1056,French fries 500g,5,frozen food,3.5
+1057,Vegetables (mixed) 500g,5,produce,3.5
+1058,Fruits (mixed) 500g,5,produce,3.5
+1059,Potatoes 1kg,2,produce,1.5
+1060,Onions 1kg,1.5,produce,1
+1061,Tomatoes 500g,2,produce,1.5
+1062,Apples (2 pcs),3,produce,2
+1063,Bananas (5 pcs),2,produce,1.5
+1064,Oranges (3 pcs),3,produce,2
+1065,Grapes (500g),5,produce,3.5
+1066,Bread (loaf),3,bakery,2
+1067,Cookies (pack of 10),2,bakery,1.5
+1068,Cake,5,bakery,3.5
+1069,Chocolate bars (pack of 5),5,snacks,3.5
+1070,Potato chips (100g),1.5,snacks,1
+1071,Candy (100g),1,snacks,0.75
+1072,Crackers (100g),1,snacks,0.75
+1073,Nuts (100g),3,snacks,2
+1074,Dried fruits (100g),3,snacks,2
+1075,Coffee (250g),10,beverages,7
+1076,Tea (250g),5,beverages,3.5
+
