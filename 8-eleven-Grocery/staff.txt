@@ -1,0 +1,4 @@
+Username,Password,Phone
+Amin,123456Aa",013-78912345
+Alin,123456Aa",019-23416712
+Ali,12345Aa",012-34567890
